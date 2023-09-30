@@ -4,4 +4,4 @@
 
 ### 2) Practicing python algo coding from question from CSES Problem Set and leetcode [LINK](https://github.com/prathameshk30/PyTorch-Algo-Practice/blob/main/algoPractice.ipynb)
 
-### 3) Exploring reinforcement learning and bayesian machine learning.
+### 3) Exploring reinforcement learning and bayesian machine learning.[LINK](https://github.com/prathameshk30/PyTorch-Algo-Practice/blob/main/Reinforcement__Learning_intro.ipynb)
